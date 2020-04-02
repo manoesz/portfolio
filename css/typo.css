@@ -1,0 +1,22 @@
+nav{
+  font-family: aktiv-grotesk-extended, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+body {
+  font-family: helvetica;
+}
+
+header {
+    justify-content: center;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 1.25em;
+  color: black;
+  font-family: cuisine, sans-serif;
+  font-weight: 500;
+  font-style: normal;
