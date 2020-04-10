@@ -1,2 +1,9 @@
-# D3-G1-2019-2020-projet04-protfolio
-This is a repo of my work
+Created by Codrops
+
+http://www.codrops.com
+
+Integrate or build upon it for free in your personal or commercial projects. Please contact us first if you want to publish or sell ports (for example WordPress or Joomla plugins). Don't republish, redistribute or sell it "as-is". 
+
+Read more here: http://tympanus.net/codrops/licensing/
+
+iPad Psd Flat Mockup by Pixeden http://www.pixeden.com/psd-mock-up-templates/ipad-psd-flat-mockup
